@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|  2   | [Contribution to Nannaquin-weekly](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/compare/master...umarkhan207322405:patch-1)    | Typo    |   I corrected the typo that nannaquin had in her readme.md file    |
 |     |     |     |      |
 |     |     |     |      |
