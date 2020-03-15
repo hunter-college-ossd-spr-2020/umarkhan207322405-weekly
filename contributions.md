@@ -27,3 +27,5 @@ following the same syntax.
 | 3    | [Contribution #80963987](https://www.openstreetmap.org/changeset/80963987#map=17/40.65083/-73.96837)    | Open Street Edit Map  | I added a tennis court close to where I live  |
 | 5    |[Contribution #81624532](https://www.openstreetmap.org/edit#map=19/40.64342/-73.96967)     | OpenStreetMap Edit    | I added a Lounge to the map in Brooklyn     |
 | 6    | [Contribution #81924928](https://www.openstreetmap.org/changeset/81924928)     |  OpenStreetMap Edit    | I added a gyro cafe     |
+| 7	| [Contribution #82224828](https://www.openstreetmap.org/changeset/82224828)	| OpenStreet Map Edit| Added a Restaurant that did not appear there|
+| 7	|[Wikipedia Edit](https://en.wikipedia.org/wiki/Babar_Ahmed_(director))|Wikipedia Edit|Added movies section for Babur Ahmad|
