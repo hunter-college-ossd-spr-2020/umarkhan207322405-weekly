@@ -29,3 +29,4 @@ following the same syntax.
 | 6    | [Contribution #81924928](https://www.openstreetmap.org/changeset/81924928)     |  OpenStreetMap Edit    | I added a gyro cafe     |
 | 7	| [Contribution #82224828](https://www.openstreetmap.org/changeset/82224828)	| OpenStreet Map Edit| Added a Restaurant that did not appear there|
 | 7	|[Wikipedia Edit](https://en.wikipedia.org/wiki/Babar_Ahmed_(director))|Wikipedia Edit|Added movies section for Babur Ahmad|
+| 8	| [Edited blog for a fellow classmate](https://github.com/hunter-college-ossd-spr-2020/Edmund-Adewu-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Edited a blog post | I edited a blog post for Edmund-Adewu-Weekly where there was spelling mistake|
