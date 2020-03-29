@@ -32,3 +32,6 @@ following the same syntax.
 | 8	| [Edited blog for a fellow classmate](https://github.com/hunter-college-ossd-spr-2020/Edmund-Adewu-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Edited a blog post | I edited a blog post for Edmund-Adewu-Weekly where there was spelling mistake|
 | 8	|[Fixed typos for Marcelo](https://github.com/hunter-college-ossd-spr-2020/MarceloDamian-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Edited a blog post| I edited the blog for MarceloDamian-weekly which had a couple of spelling mistakes|
 | 8	| [Contribution# 82485328](https://www.openstreetmap.org/changeset/82485328#map=16/40.6363/-73.9680)|OpenStreet Map |I edited the map by adding a food place around my area |
+| 9	|[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Blog Edit| I edited minor spelling mistakes in a blog|
+| 9	|[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Igor_Matovi%C4%8D&oldid=947335610)|Wikipedia Edit| I added minor facts about Igor Matovic|
+|| 9	|[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Open_source&oldid=948001785)|Wikipedia Edit| I edited a spelling mistake in Open Source Page on wikipedia|
