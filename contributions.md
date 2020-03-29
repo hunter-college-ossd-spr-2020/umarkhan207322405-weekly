@@ -35,4 +35,4 @@ following the same syntax.
 | 9	|[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/MichelleLucero-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Blog Edit| I edited minor spelling mistakes in a blog|
 | 9	|[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Igor_Matovi%C4%8D&oldid=947335610)|Wikipedia Edit| I added minor facts about Igor Matovic|
 | 9	|[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Open_source&oldid=948001785)|Wikipedia Edit| I edited a spelling mistake in Open Source Page on wikipedia|
-| 9	|[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/compare/gh-pages...umarkhan207322405:patch-1)|Wikipedia Edit|I edited minor grammatical mistakes in Liulanz's Blog 9|
+| 9	|[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Blog Edit| I edited minor grammatical mistakes in Liulanz's Blog 9|
