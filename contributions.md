@@ -36,3 +36,7 @@ following the same syntax.
 | 9	|[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Igor_Matovi%C4%8D&oldid=947335610)|Wikipedia Edit| I added minor facts about Igor Matovic|
 | 9	|[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Open_source&oldid=948001785)|Wikipedia Edit| I edited a spelling mistake in Open Source Page on wikipedia|
 | 9	|[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/compare/gh-pages...umarkhan207322405:patch-1)| Blog Edit| I edited minor grammatical mistakes in Liulanz's Blog 9|
+| 10 |[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/compare/gh-pages...umarkhan207322405:patch-1)|Blog Edit| Edited the blog for a fellow classmate|
+| 10 |[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/compare/gh-pages...umarkhan207322405:patch-1)|Blog Edit| I fixed a couple of typos in Kisuki's blog|
+| 10 |[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Money_Heist&oldid=951741851)| Wikipedia Edit| I fixed a couple of typos in the Casting section section for a popular series Money Heist|
+| 10 |[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Kingdom_(South_Korean_TV_series)&oldid=951751600)| Wikipedia Edit| I fixed a typo in the Casting section for Korean drama Kingdom|
