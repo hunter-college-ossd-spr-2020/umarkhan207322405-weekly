@@ -41,3 +41,4 @@ following the same syntax.
 | 10 |[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Money_Heist&oldid=951741851)| Wikipedia Edit| I fixed a couple of typos in the Casting section section for a popular series Money Heist|
 | 10 |[Wikipedia Edit](https://en.wikipedia.org/w/index.php?title=Kingdom_(South_Korean_TV_series)&oldid=951751600)| Wikipedia Edit| I fixed a typo in the Casting section for Korean drama Kingdom|
 | 12 |[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/compare/gh-pages...umarkhan207322405:patch-2)| Blog Edit| Fixed some typos in Nannaquin's blog post 11|
+| 13 |[Blog Edit](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/compare/gh-pages...umarkhan207322405:patch-1)|Blog Edit| I fixed minor typos and grammatical mistakes in sddhani's blog|
